@@ -1,0 +1,18 @@
+
+
+*{
+    font-family: 'Roboto', sans-serif;
+        letter-spacing: 1px;
+    line-height: 1rem;
+}
+
+.headerBlock{
+    background-color: #ffdf8c!important;
+}
+
+#errorBlock{
+  display: none;
+}
+#goodBlock{
+  display: none;
+}
